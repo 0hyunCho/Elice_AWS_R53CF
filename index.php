@@ -15,7 +15,6 @@ header("Cache-Control: max-age=10");
         Print(date(DATE_RFC822));
     ?>
     <br>
-    <a href="/index.php">재요청하기</a>
     <img src="Elice_Image.png">
     </body>
 </html>
